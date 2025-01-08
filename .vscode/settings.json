@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\xampp\\htdocs\\mysql-connector-jj-8.0.31.jar"
+    ]
+}
